@@ -32,7 +32,7 @@ A jornada de criação com IA trouxe desafios e aprendizados sobre equilibrar au
 
 ## 📌 Exemplos e Recursos
 - [E-BOOK de Afirmações](https://industrious-character-ab1.notion.site/Afirma-Comigo-16c4ed32dc1780288452dcdb3ba7bc58?pvs=4)
-- [Instagram sobre Afirmações]([/exemplos/PODCAST.md](https://www.instagram.com/afirmacomigo/))
+- [Instagram sobre Afirmações](https://www.instagram.com/afirmacomigo/)
 
 ## 🌟 Links Interessantes
 - [Saiba Mais: Como as IAs Generativas Transformam Projetos Criativos](https://base10.vc/post/generative-ai-mission-critical/)
