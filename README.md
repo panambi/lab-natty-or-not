@@ -31,7 +31,7 @@ O projeto foi estruturado para criar afirmações baseadas nas fases da lua (Nov
 A jornada de criação com IA trouxe desafios e aprendizados sobre equilibrar automação com autenticidade. A experiência destacou que é possível criar conteúdos "naturais" e verdadeiros com tecnologia, desde que o propósito de conectar e transformar esteja sempre em foco.
 
 ## 📌 Exemplos e Recursos
-- [E-BOOK de Afirmações]([/exemplos/E-BOOK.md](https://industrious-character-ab1.notion.site/Afirma-Comigo-16c4ed32dc1780288452dcdb3ba7bc58))
+- [E-BOOK de Afirmações]([[/exemplos/E-BOOK.md](https://industrious-character-ab1.notion.site/Afirma-Comigo-16c4ed32dc1780288452dcdb3ba7bc58)](https://industrious-character-ab1.notion.site/Afirma-Comigo-16c4ed32dc1780288452dcdb3ba7bc58?pvs=4))
 - [Instagram sobre Afirmações]([/exemplos/PODCAST.md](https://www.instagram.com/afirmacomigo/))
 
 ## 🌟 Links Interessantes
